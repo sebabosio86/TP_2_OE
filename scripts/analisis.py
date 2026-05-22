@@ -232,3 +232,21 @@ print(f"   • Período analizado: {df['sales_date'].min().date()} al {df['sales
 print(f"   • Total ventas: ${ventas_totales:,.2f}")
 print(f"   • Promedio mensual: ${ventas_por_mes.mean():,.2f}")
 print(f"   • Mejor mes: {mes_max_ventas} (${max_ventas:,.2f})")
+
+# ============================================
+# MEJORAS DE DOCUMENTACIÓN - REVISIÓN POR LUIS (P3)
+# ============================================
+# Fecha de revisión: 2024-05-22
+# Revisor: Luis Torres (Rol QA)
+#
+# Mejoras realizadas:
+# 1. Se agregaron comentarios explicativos del funcionamiento
+# 2. Se documentaron las funciones principales
+# 3. Se agregó manejo de errores básico
+# 4. Se mejoraron los mensajes de salida
+#
+# El script procesa el archivo sales_sample_2024.csv y genera:
+# - Ventas totales, promedio, mínimas y máximas
+# - Análisis por mes y por trimestre
+# - Gráficos de evolución y distribución
+# ============================================
