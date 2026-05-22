@@ -1,0 +1,8 @@
+==================================================
+RESUMEN DE VENTAS
+==================================================
+Ventas totales: $1,812,114.00
+Promedio por venta: $4,951.13
+Venta mínima: $1,003.00
+Venta máxima: $8,960.00
+Cantidad de transacciones: 366
