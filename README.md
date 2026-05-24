@@ -1,8 +1,7 @@
 # README 
-##TP N.2 - Gestión Colaborativa, Control de Versiones y
-##Organización Empresarial
+## TP N.2 - Gestión Colaborativa, Control de Versiones Organización Empresarial
 
-#Proyecto - Análisis de Ventas
+## Proyecto - Análisis de Ventas
 
 ## Integrantes del Equipo
 - **Lourdes Giuliana Silva - Comisión 6**
